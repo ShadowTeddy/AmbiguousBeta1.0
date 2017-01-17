@@ -1,0 +1,16 @@
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\bin\Debug\Ambiguous.exe
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\bin\Debug\Ambiguous.pdb
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\bin\Debug\H2Memory.dll
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\obj\x86\Debug\Ambiguous.csprojResolveAssemblyReference.cache
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\obj\x86\Debug\Ambiguous.Form1.resources
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\obj\x86\Debug\Ambiguous.MapDetails.resources
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\obj\x86\Debug\Ambiguous.Bitmask.resources
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\obj\x86\Debug\Ambiguous.Enum.resources
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\obj\x86\Debug\Ambiguous.Ident.resources
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\obj\x86\Debug\Ambiguous.Reflexive.resources
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\obj\x86\Debug\Ambiguous.StringID.resources
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\obj\x86\Debug\Ambiguous.Value.resources
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\obj\x86\Debug\Ambiguous.Properties.Resources.resources
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\obj\x86\Debug\Ambiguous.csproj.GenerateResource.Cache
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\obj\x86\Debug\Ambiguous.exe
+C:\Users\ANAS\Documents\Visual Studio 2015\Projects\Ambiguous-master\obj\x86\Debug\Ambiguous.pdb
